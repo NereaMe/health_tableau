@@ -30,16 +30,16 @@ population to improve our knowledge and develop effective
 preventive measures.
 
 **SKILLS / TOOLS /PROCEDURES**
-Excel
-Translating business
-requirements
-Data cleaning
-Data integration
-Data transformation
-Statistical hypothesis testing
-Visual analysis
-Forecasting
-Storytelling in Tableau
-Presenting results
+Excel, 
+Translating business, 
+requirements, 
+Data cleaning, 
+Data integration, 
+Data transformation, 
+Statistical hypothesis testing, 
+Visual analysis, 
+Forecasting, 
+Storytelling in Tableau, 
+Presenting results.
 
 Full story available in Tableau - [Optimizing Medical Staffing for Influenza Season](https://public.tableau.com/app/profile/nerea.menor/viz/2_9StorytellingwithDataPresentations_17079123843740/End)
